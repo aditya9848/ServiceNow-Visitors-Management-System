@@ -41,28 +41,28 @@ This is a fully functional **Visitor Management System** built using **ServiceNo
 
 ---
 
-## 📸 Screenshots
+## 📸 Project Glimpse
 
-### 🏠 Visitor Management Workspace
-![Workspace UI](https://github.com/your-username/visitor-management-system/blob/main/images/workspace_ui.png?raw=true)
-
----
-
-### 📝 Visitor Check-In Form
-![Check-In Form](https://github.com/your-username/visitor-management-system/blob/main/images/checkin_form.png?raw=true)
+### 🏠 Glimpse 1
+![Glimpse 1](https://github.com/aditya9848/ServiceNow-Visitors-Management-System/blob/main/glimpse%201.png)
 
 ---
 
-### ✅ Approval Workflow in Flow Designer
-![Approval Flow](https://github.com/your-username/visitor-management-system/blob/main/images/approval_flow.png?raw=true)
+### 📝 Glimpse 2
+![Glimpse 2](https://github.com/aditya9848/ServiceNow-Visitors-Management-System/blob/main/glimpse%202.png)
 
 ---
 
-### 📊 Admin Dashboard View
-![Dashboard](https://github.com/your-username/visitor-management-system/blob/main/images/dashboard.png?raw=true)
+### ✅ Glimpse 3
+![Glimpse 3](https://github.com/aditya9848/ServiceNow-Visitors-Management-System/blob/main/glimpse%203.png)
 
 ---
 
-### 🎯 Record Producer Form
-![Record Producer](https://github.com/your-username/visitor-management-system/blob/main/images/record_producer.png?raw=true)
+### 📊 Glimpse 4
+![Glimpse 4](https://github.com/aditya9848/ServiceNow-Visitors-Management-System/blob/main/glimpse%204.png)
+
+---
+
+### 🎯 Glimpse 5
+![Glimpse 5](https://github.com/aditya9848/ServiceNow-Visitors-Management-System/blob/main/glimpse%205.png)
 
