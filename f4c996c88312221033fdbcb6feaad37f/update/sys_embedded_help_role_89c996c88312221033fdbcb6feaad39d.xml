@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_1607504_visito_0.visitor_admin" name="x_1607504_visito_0.visitor_admin">85c996c88312221033fdbcb6feaad39c</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-18 04:23:04</sys_created_on>
+        <sys_id>89c996c88312221033fdbcb6feaad39d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>85c996c88312221033fdbcb6feaad39c</sys_name>
+        <sys_package display_value="Visitor Management System" source="x_1607504_visito_0">f4c996c88312221033fdbcb6feaad37f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Visitor Management System">f4c996c88312221033fdbcb6feaad37f</sys_scope>
+        <sys_update_name>sys_embedded_help_role_89c996c88312221033fdbcb6feaad39d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-18 04:23:04</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="purpose_of_visit" label="Purpose of Visit" language="en" table="x_1607504_visito_0_visitor_check_in">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>purpose_of_visit</element>
+            <help/>
+            <hint/>
+            <label>Purpose of Visit</label>
+            <language>en</language>
+            <name>x_1607504_visito_0_visitor_check_in</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-18 04:42:10</sys_created_on>
+            <sys_mod_count>5</sys_mod_count>
+            <sys_name>Purpose of Visit</sys_name>
+            <sys_package display_value="Visitor Management System" source="x_1607504_visito_0">f4c996c88312221033fdbcb6feaad37f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Visitor Management System">f4c996c88312221033fdbcb6feaad37f</sys_scope>
+            <sys_update_name>sys_documentation_x_1607504_visito_0_visitor_check_in_purpose_of_visit_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-18 09:38:39</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

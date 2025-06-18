@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="Visitor Management Workspace App Config">952d9b8c17562210e0f58bd607c5ad22</app_config>
+        <description/>
+        <extension_point/>
+        <fields>uuid</fields>
+        <icon/>
+        <name>KPI Details</name>
+        <optional_parameters>scoreDate,breakdowns,domain,aggregate,startDate,endDate</optional_parameters>
+        <order>0</order>
+        <parent_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>ac_kpi_details</route_type>
+        <screen_type display_value="KPI Details">512d9b8c685622103667411da26b7818</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-18 09:17:28</sys_created_on>
+        <sys_id>d92d9b8c0156221069af84160721bc17</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>KPI Details</sys_name>
+        <sys_package display_value="Visitor Management System" source="x_1607504_visito_0">f4c996c88312221033fdbcb6feaad37f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Visitor Management System">f4c996c88312221033fdbcb6feaad37f</sys_scope>
+        <sys_update_name>sys_ux_app_route_d92d9b8c0156221069af84160721bc17</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-18 09:17:28</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=d92d9b8c0156221069af84160721bc17"/>
+</record_update>

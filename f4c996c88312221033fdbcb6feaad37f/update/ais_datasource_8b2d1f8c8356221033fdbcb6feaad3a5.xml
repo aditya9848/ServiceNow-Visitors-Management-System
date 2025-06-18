@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_datasource">
+    <ais_datasource action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <conflict>false</conflict>
+        <filter/>
+        <force_late_binding>false</force_late_binding>
+        <name>Visitor Check-In Table</name>
+        <retention_policy/>
+        <source>x_1607504_visito_0_visitor_check_in</source>
+        <sys_class_name>ais_datasource</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-18 09:17:34</sys_created_on>
+        <sys_id>8b2d1f8c8356221033fdbcb6feaad3a5</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Visitor Check-In Table</sys_name>
+        <sys_package display_value="Visitor Management System" source="x_1607504_visito_0">f4c996c88312221033fdbcb6feaad37f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Visitor Management System">f4c996c88312221033fdbcb6feaad37f</sys_scope>
+        <sys_update_name>ais_datasource_8b2d1f8c8356221033fdbcb6feaad3a5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-18 09:17:35</sys_updated_on>
+        <type>internal</type>
+    </ais_datasource>
+</record_update>
