@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="canvas_user" name="canvas_user">8536f54bc713330072b211d4d8c26080</contains>
+        <role display_value="x_1607504_visito_0.visitor_user" name="x_1607504_visito_0.visitor_user">c9c996c88312221033fdbcb6feaad39f</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-18 09:17:33</sys_created_on>
+        <sys_id>f22d1f8c8356221033fdbcb6feaad349</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>canvas_user.x_1607504_visito_0.visitor_user</sys_name>
+        <sys_package display_value="Visitor Management System" source="x_1607504_visito_0">f4c996c88312221033fdbcb6feaad37f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Visitor Management System">f4c996c88312221033fdbcb6feaad37f</sys_scope>
+        <sys_update_name>sys_user_role_contains_f22d1f8c8356221033fdbcb6feaad349</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-18 09:17:33</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>

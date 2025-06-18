@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="4c6b964c8312221033fdbcb6feaad314" label="Visitor Check-In" max_length="40" name="x_1607504_visito_0_visitor_check_in" text_index="true" type="collection">
+        <element label="Visitor Name" mandatory="true" max_length="100" name="visitor_name" type="string"/>
+        <element default="pending" label="Approval Status" max_length="40" name="approval_state" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Rejected" sequence="2" value="rejected"/>
+                <element inactive_on_update="false" label="Pending" sequence="0" value="pending"/>
+                <element inactive_on_update="false" label="Approved" sequence="1" value="approved"/>
+            </choice>
+        </element>
+        <element label="Check-Out-Time" max_length="255" name="check_out_time" type="glide_date_time"/>
+        <element default="javascript:gs.nowDateTime()" display="true" label="Visit Date/Time" mandatory="true" max_length="255" name="visit_date_time" type="glide_date_time"/>
+        <element label="Mobile Number" max_length="15" name="mobile_number" type="string"/>
+        <element label="Email" max_length="40" name="email" type="string"/>
+        <element label="Approval Comments" max_length="40" name="approval_comments" type="journal_input"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Purpose of Visit" mandatory="true" max_length="40" name="purpose_of_visit" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Maintenance" sequence="3" value="maintenance"/>
+                <element inactive_on_update="false" label="Meeting" sequence="0" value="meeting"/>
+                <element inactive_on_update="false" label="Other" sequence="4" value="other"/>
+                <element inactive_on_update="false" label="Interview" sequence="1" value="interview"/>
+                <element inactive_on_update="false" label="Delivery" sequence="2" value="delivery"/>
+            </choice>
+        </element>
+        <element label="Host Employee" mandatory="true" max_length="32" name="host_employee" reference="sys_user" type="reference"/>
+        <element default="pending" label="Status" mandatory="true" max_length="40" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Checked-Out" sequence="2" value="checked_out"/>
+                <element inactive_on_update="false" label="Pending" sequence="0" value="pending"/>
+                <element inactive_on_update="false" label="Checked-In" sequence="1" value="checked_in"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="host_employee"/>
+        </index>
+    </element>
+</database>

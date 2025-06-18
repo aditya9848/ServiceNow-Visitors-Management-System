@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="visitor_name" label="Visitor Name" language="en" table="x_1607504_visito_0_visitor_check_in">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>visitor_name</element>
+            <help/>
+            <hint/>
+            <label>Visitor Name</label>
+            <language>en</language>
+            <name>x_1607504_visito_0_visitor_check_in</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-18 04:42:10</sys_created_on>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_name>Visitor Name</sys_name>
+            <sys_package display_value="Visitor Management System" source="x_1607504_visito_0">f4c996c88312221033fdbcb6feaad37f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Visitor Management System">f4c996c88312221033fdbcb6feaad37f</sys_scope>
+            <sys_update_name>sys_documentation_x_1607504_visito_0_visitor_check_in_visitor_name_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-18 04:42:15</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
